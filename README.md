@@ -1,4 +1,4 @@
-# Machine_learning
+# Machine learning
 
 *see jupyter lab, notebook or copy and paste code into VS code to run
 
